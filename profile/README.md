@@ -2,7 +2,7 @@
 
 **Comprehensive Technology Solutions Hub** · **AI & Cybersecurity Excellence** · **Enterprise Innovation Partner**
 
-[Website](https://zain-technologies-22.github.io) · [Business Inquiry](mailto:business@zain-technologies.com) · [LinkedIn](https://www.linkedin.com/company/zain-technologies) · [Twitter](https://twitter.com/zain_tech)
+[Website](https://zaintechnologiesltd.github.io) · [Business Inquiry](mailto:business@zain-technologies.com) · [LinkedIn](https://www.linkedin.com/company/zain-technologies) · [Twitter](https://twitter.com/zain_tech)
 
 ---
 
@@ -153,6 +153,5 @@ Zain Technologies Ltd. is a comprehensive technology solutions provider speciali
 
 **Zain Technologies Ltd.** — Your trusted partner for comprehensive technology solutions, cybersecurity excellence, and digital innovation. Let's build the future of technology together.
 
-🌟 **Authorized Share Capital**: BDT 10,00,000,000 (Ten Crore Taka)  
 🏛️ **Incorporated**: Under The Companies Act, 1994  
 📍 **Headquarters**: Bangladesh | **Global Operations**: MENA & APAC Regions
