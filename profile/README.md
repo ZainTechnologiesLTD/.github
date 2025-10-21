@@ -2,7 +2,7 @@
 
 **Comprehensive Technology Solutions Hub** · **AI & Cybersecurity Excellence** · **Enterprise Innovation Partner**
 
-[Website](https://zaintechnologiesltd.github.io) · [Business Inquiry](mailto:business@zain-technologies.com) · [LinkedIn](https://www.linkedin.com/company/zain-technologies) · [Twitter](https://twitter.com/zain_tech)
+[Website](https://zaintechnologiesltd.github.io) · [Business Inquiry](mailto:business@zain-technologies.com) · [LinkedIn](https://www.linkedin.com/company/zaintechnologiesltd) · [Twitter](https://twitter.com/zain_tech)
 
 ---
 
